@@ -123,4 +123,7 @@
   <data name="FullName" xml:space="preserve">
     <value>Teljes nev</value>
   </data>
+  <data name="WriteToFile" xml:space="preserve">
+    <value>Fajlba iras</value>
+  </data>
 </root>
